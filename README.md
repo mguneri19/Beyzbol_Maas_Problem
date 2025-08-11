@@ -33,12 +33,12 @@ Beyzbol_Maas_Problem/
     hitters.csv
   Maaş Tahmin.py
   requirements.txt
-  cat_plots/                 # otomatik üretilir (git ignore)
-  num_plots/                 # otomatik üretilir (git ignore)
-  outlier_plots/             # otomatik üretilir (git ignore)
-  plots/                     # otomatik üretilir (git ignore)
-  feature_importance_plots/  # otomatik üretilir (git ignore)
-  special_outlier_plots/     # otomatik üretilir (git ignore)
+  cat_plots/                 # otomatik üretilir 
+  num_plots/                 # otomatik üretilir 
+  outlier_plots/             # otomatik üretilir 
+  plots/                     # otomatik üretilir 
+  feature_importance_plots/  # otomatik üretilir 
+  special_outlier_plots/     # otomatik üretilir 
 ```
 
 ### Notlar
